@@ -1,0 +1,96 @@
+lets say there is a class Car
+ 
+Car a = new Car();
+
+here a = is object reference variable
+
+new Car() is an object of class Car
+
+
+
+Non Static methods:
+Public void
+Public strin
+Public int
+with arguments & without arguments
+
+
+Statement like:
+Object obj=new Object();
+
+here obj object reference variable will be given copy of above functions
+
+
+
+Function overloading
+When we write same functon (with same name) but with different arguments
+Same function name with same argument but with different return type is not allowed
+Same function with same name same arguments numbers  but with different data type for argument is allowed
+
+
+WRAPPER CLASS:
+WHere you can parse values from data type to another	
+
+CallbyValue and CallbyReference
+CallbyReference is possible
+
+
+OOP Concept part 2:
+
+---------------------------------------------------------------INHERITANCE--------------------------------------------------------------
+A Parent Class can have multiple child classes
+A child class can have only one parent class
+
+Child class extends parent class
+Child inherits all properties from parent and parent's parent classes
+
+
+Suppose below is structure:
+
+BMW --> -->CAR-->Vehicle-->Automobile-->Mechanical-->Physics-->Engineering-->Science
+
+MERC--> -->CAR-->Vehicle-->Automobile-->Mechanical-->Physics-->Engineering-->Science
+
+Audi --> -->CAR-->Vehicle-->Automobile-->Mechanical-->Physics-->Engineering-->Science
+
+In these cases all BMW, MERC, AUDI can have all properties uptil top parent class Science 
+
+
+In case parent and  child class have same methods, in that case preference will be given to child class method THIS IS METHOD OVERRIDING
+
+Method Overriding: WHen child and parent have same class with same arguments, prefernce being given to child class
+
+ABOVE thing is also known as STATIC POLYMORPHISM
+
+
+BELOW IS RUNTTIME or DYNAMIC POLYMORPHISM	
+Car c1=new BMW(); //THIS IS CALLED TOP CASTINGs
+		c1.carStart();
+		c1.carStop();
+		c1.refuel();
+		//Here c1 is a parent class object referring to child class. 
+		//C1 can access all child class functions which are available in parent class + parent class specific methods
+		//But C1 will not be able to access functions which are specific to child class only
+		//This is called DYNAMIC OR RUNTME polymorphism
+		
+		
+INHERITANCE is "HAS A RELATIONSHIP"		
+
+--------------------------------------------------------------------INTERFACE:------------------------OOP ABSTRACTION----------------------------------------
+
+Needs to create a Interface instead of class in IDE Eclipse
+
+A class can implement multiple interfaces and in inheritance, a class can only extend one parent class
+
+Keyword is IMPLEMENTS
+
+Method is only mentioned but is not defined
+Variables needs to be initiallized
+Variables are by Default STATIC in interfaces
+No Static method can be mentioned in STATIC methods, if you see in a way we can add method body so how can they be static
+
+
+In implementing class it is mandatory to define all the methods mentioned in its implementing interface
+
+interface is "IS A RELATIONSHIP"
+

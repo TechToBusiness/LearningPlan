@@ -1,0 +1,17 @@
+GENERICS IN JAVA
+Generic ArrayList is when you declare like 
+ArrayList<integer> al=new ArrayList<Integer>()
+
+Non Generic is when you create like:
+ArrayList al=new ArrayList()
+
+
+SYNTAX IS:
+
+ArrayList<E> AL=new ArrayList<E>
+
+E is generic and can be any class like a custom class
+
+
+
+NEED TO PRACTISE MORE ON ARRAYLIST

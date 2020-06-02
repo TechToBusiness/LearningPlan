@@ -1,0 +1,33 @@
+
+WE use STATIC keyword with method to provide it class level access i.e. to be able to call method wihtin class without instance of class
+
+
+***********************************FINAL*******************************************************************
+//Final is used to defined constant values i.e  once declared final, value cannot be changed
+//Used to prevent inheritance, i.e. if a class is declared as final, it cannot have child class or no class can implement it
+//Used to precent method overriding as well, i.e. once a function is declared as final in parent class, its child class cannot have same function
+
+
+
+**********************************FINALLY******************************************************************
+
+Finally is always used with try catch block and its use is to ensure a peice of code (inside finally block) is always executed after try block
+
+also Catch block is not neccessary  in try catch arrangement
+
+
+Also not neccessary for exception to be raised in order for finally to be executed
+
+
+TRY should be accompained by either Catch or Finally
+
+
+
+********************************Finalize************************************************
+It is a cleanup process before Garbase Collector (system.gc) is called
+
+it is used to destory all objecs which are not reference by any variable
+
+Garbage COllector
+
+	

@@ -1,0 +1,15 @@
+Different platforms like GITHUB and BITBUCKET (by ATLASSIAN) and GITLAB
+
+GITHUB provides UI to work with GIT
+
+Git- Distributed Version COntrol System
+
+TRUNK BASED DEVELOPMENT
+
+
+Commit is PUSH
+
+
+
+GITHUB is free if you want to keep your source code public
+

@@ -1,0 +1,58 @@
+Data Types:
+
+Below are primitive data types:
+
+int
+	Cannot hold decimal only integers
+	Negative are allowed
+
+Double:
+	For keeping decimal values
+	Can hold integers as well
+
+char
+	For holding single Char
+	in single quotes
+	
+
+Boolean
+	True or False
+
+	
+String
+	String is a class not a data type
+	Need to use double quotes
+	
+	
+Concatenation
+	Can concatenate string and int
+	Using + symbol
+	
+
+System.out.print
+System.out.println (prints in same line but add a new line at the end)	
+
+++i  - pre increment, first increase and then asign
+
+i++- first assign and then increase
+
+
+\\static array:
+int s[]= new int[5];
+
+Static arrays have 2 disadvantages: 
+1. Size is fixed: Can be overcome using collections, hashmaps
+2. Holds same data type elements - Can be overcome using object class
+
+object class array:
+Object ob[]=new Object[40];
+
+to fetch the size .length is used
+for getting column in 2D array use ab[0].length
+
+
+
+*****************************SUPER KEYWORD*****************************
+Super keyword is used to call constructor of parent class from inside of child class
+If super keyword is not written, by default the default constructor of parent class will be called while initializing object of child class
+If written, Super keyword has to be the first statement inside the constructor of child class

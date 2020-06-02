@@ -1,0 +1,46 @@
+GENERICS IN JAVA
+Generic ArrayList is when you declare like 
+ArrayList<integer> al=new ArrayList<Integer>()
+
+Non Generic is when you create like:
+ArrayList al=new ArrayList()
+
+
+SYNTAX IS:
+
+ArrayList<E> AL=new ArrayList<E>
+
+E is generic and can be any class like a custom class
+
+
+
+NEED TO PRACTISE MORE ON ARRAYLIST
+
+for getting size of array:
+a.length
+
+for getting size of arraylist:
+al.size()
+
+to get item:
+al.get(1).name;
+
+
+for getting linkedlist size:
+
+ll.size()
+
+for getting item:
+ll.get(1)
+
+
+
+****************************************HASHTABLES:*****************************************
+HASHTABLES are collection in form of Key value pair..
+syntaxes:
+
+Hashtable(K,V) ht= new Hashtable<K,V>();
+
+ht.put(key, value)
+ht.putifabsent(k,v)
+ht.remove(k)

@@ -1,0 +1,59 @@
+~~~Please follow the following playlists sequence:
+1.  core java - core java tutorials for beginners - by naveen automationlabs
+Done till Super keyword
+
+2. Selenium - 3 WebDriver Tutorials - By Naveen AutomationLabs
+3. Become a Genius in XPath - Learn How to Create Custom (Dynamic) Xpath - By Naveen AutomationLabs
+4. TestNG Framework With Selenium Tutorials - By Naveen AutomationLabs
+5. POM - Learn Hybrid Framework With Page Object Model Step By Step- By Naveen Automation Labs
+6. Selenium Grid Tutorials - By Naveen AutomationLabs
+7. Cucumber - JVM (BDD Framework) With Selenium Full Series
+8. Learn Maven (Build Automation Tool)
+9. Learn GIT & GITHUB - By Naveen AutomationLabs
+10. Protractor with Jasmine for AngularJS Apps
+11. Java Interview Questions - By Naveen AutomationLabs
+12. Rest WebServices API Automation Framework
+13. Selenium & Automation Interview Preparation and Doubt Clearing Session with Naveen!
+
+
+
+
+
+JENKINS:
+https://www.youtube.com/watch?v=FX322RVNGj4
+
+
+GITHUB:
+For version control
+
+
+MAVEN GRADLE:
+For building
+
+
+
+
+Test automation Sample Site:
+https://parabank.parasoft.com/parabank/index.htm
+https://phptravels.net/home
+
+
+
+
+Microservice Architecture
+Data Pipelines
+Dev Ops
+Git
+
+
+Read data from REst API
+
+
+Kubernetes and Docker
+
+
+
+Cloud and Distribued Computung
+
+
+SQL
